@@ -1,0 +1,7 @@
+C:\Users\EFRAT\Desktop\Twitter_towers\Twitter_towers\bin\Debug\Twitter_towers.exe.config
+C:\Users\EFRAT\Desktop\Twitter_towers\Twitter_towers\bin\Debug\Twitter_towers.exe
+C:\Users\EFRAT\Desktop\Twitter_towers\Twitter_towers\bin\Debug\Twitter_towers.pdb
+C:\Users\EFRAT\Desktop\Twitter_towers\Twitter_towers\obj\Debug\Twitter_towers.csproj.AssemblyReference.cache
+C:\Users\EFRAT\Desktop\Twitter_towers\Twitter_towers\obj\Debug\Twitter_towers.csproj.CoreCompileInputs.cache
+C:\Users\EFRAT\Desktop\Twitter_towers\Twitter_towers\obj\Debug\Twitter_towers.exe
+C:\Users\EFRAT\Desktop\Twitter_towers\Twitter_towers\obj\Debug\Twitter_towers.pdb
